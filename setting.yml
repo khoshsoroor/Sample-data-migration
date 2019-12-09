@@ -1,0 +1,15 @@
+
+base_api_uri: 'https://api.new.ostadkar.pro'
+path_excel: '/home/mahsa/Downloads/product_final_data.xlsx'
+
+banner_excel: '/home/mahsa/Downloads/banners.xlsx'
+path_banners_image_dir : '/home/mahsa/Downloads/Home_page/'
+path_categories_images_dir: '/home/mahsa/Downloads/category-images/'
+path_categories_icon_logo_dir: '/home/mahsa/Downloads/category-icons/'
+path_messages: '/home/mahsa/Downloads/SMS.xlsx'
+path_service_description: '/home/mahsa/Downloads/services_description.json'
+path_services_image_dir: '/home/mahsa/Downloads/service-images/'
+price_file: '/home/mahsa/Downloads/prices.csv'
+path_question: '/home/mahsa/Downloads/question.xlsx'
+path_zone: '/home/mahsa/Downloads/product_final2.xlsx'
+path_msg: '/home/mahsa/Downloads/msg.xlsx'
